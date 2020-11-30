@@ -6,7 +6,16 @@ namespace Problem3_9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.Write("文字列を入力");
+            string a = (Console.ReadLine());
+            if(a=="abc")
+            {
+                Console.WriteLine("abcです。");
+            }
+            else
+            {
+                Console.WriteLine("abcではありません。");
+            }
         }
     }
 }
