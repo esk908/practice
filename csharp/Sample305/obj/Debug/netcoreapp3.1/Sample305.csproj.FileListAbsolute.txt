@@ -1,0 +1,13 @@
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.exe
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.dll
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\bin\Debug\netcoreapp3.1\Sample305.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.csprojAssemblyReference.cache
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.dll
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Sample305\obj\Debug\netcoreapp3.1\Sample305.genruntimeconfig.cache

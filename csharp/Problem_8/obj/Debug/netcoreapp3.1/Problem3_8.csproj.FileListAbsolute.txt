@@ -1,0 +1,12 @@
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.exe
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.dll
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\bin\Debug\netcoreapp3.1\Problem3_8.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.dll
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Problem_8\obj\Debug\netcoreapp3.1\Problem3_8.genruntimeconfig.cache

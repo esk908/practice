@@ -1,0 +1,12 @@
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.exe
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.dll
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\bin\Debug\netcoreapp3.1\Sample306.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.dll
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Sample306\obj\Debug\netcoreapp3.1\Sample306.genruntimeconfig.cache
