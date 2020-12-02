@@ -1,0 +1,13 @@
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.exe
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.deps.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\bin\Debug\netcoreapp3.1\Exercise503.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.csprojAssemblyReference.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise503\obj\Debug\netcoreapp3.1\Exercise503.genruntimeconfig.cache

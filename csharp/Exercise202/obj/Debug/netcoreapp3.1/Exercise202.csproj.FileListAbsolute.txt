@@ -1,0 +1,12 @@
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.exe
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\bin\Debug\netcoreapp3.1\Exercise202.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exercise202\obj\Debug\netcoreapp3.1\Exercise202.genruntimeconfig.cache

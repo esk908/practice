@@ -1,0 +1,12 @@
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.exe
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.deps.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\bin\Debug\netcoreapp3.1\Exercise401.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exercise401\obj\Debug\netcoreapp3.1\Exercise401.genruntimeconfig.cache

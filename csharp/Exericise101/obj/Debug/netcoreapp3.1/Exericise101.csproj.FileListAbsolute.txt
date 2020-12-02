@@ -1,0 +1,13 @@
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.exe
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\bin\Debug\netcoreapp3.1\Exericise101.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.csprojAssemblyReference.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exericise101\obj\Debug\netcoreapp3.1\Exericise101.genruntimeconfig.cache

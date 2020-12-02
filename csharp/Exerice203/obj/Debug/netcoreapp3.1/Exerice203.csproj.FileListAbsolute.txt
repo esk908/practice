@@ -1,0 +1,12 @@
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.exe
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.deps.json
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\bin\Debug\netcoreapp3.1\Exerice203.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.dll
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.pdb
+C:\Users\PC-72\Desktop\practice\csharp\Exerice203\obj\Debug\netcoreapp3.1\Exerice203.genruntimeconfig.cache

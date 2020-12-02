@@ -1,0 +1,13 @@
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.exe
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.deps.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.runtimeconfig.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.runtimeconfig.dev.json
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\bin\Debug\netcoreapp3.1\Exericise301.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.csprojAssemblyReference.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.AssemblyInfoInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.AssemblyInfo.cs
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.csproj.CoreCompileInputs.cache
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.dll
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.pdb
+C:\Users\PC-72\Desktop\practice\ude_csharp\Exericise301\obj\Debug\netcoreapp3.1\Exericise301.genruntimeconfig.cache
